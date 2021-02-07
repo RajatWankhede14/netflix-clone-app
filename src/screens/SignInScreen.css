@@ -36,3 +36,17 @@
   text-align: left;
   margin-bottom: 25px;
 }
+
+.signInScreen > form > h4 {
+  text-align: left;
+  margin-top: 20px;
+}
+
+.signInScreen__gray {
+  color: gray;
+}
+
+.signInScreen__link:hover {
+  cursor: pointer;
+  text-decoration: underline;
+}
